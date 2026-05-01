@@ -1,5 +1,5 @@
 <img width="736" height="427" alt="b542bfdb5693d1a42d2c65f943ef8cbb" src="https://github.com/user-attachments/assets/a1cd2a4c-b0a2-40c5-b71e-ca68e23d32ff" />
-## Hi there 👋
+oh shit my bac
 
 <!--
 **J4CKjack/J4CKjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
